@@ -18,6 +18,9 @@
       "path": "scripts/vimeo.js"
     },
     {
+      "path": "scripts/x-api.js"
+    },
+    {
       "path": "scripts/youtube.js"
     },
     {
